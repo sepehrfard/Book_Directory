@@ -1,0 +1,13 @@
+Book Directory
+
+Package requirements:
+
+import:
+
+    1- sqlite3
+
+    2- tkinter
+
+    3- os.path
+
+    4- os
